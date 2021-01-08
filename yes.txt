@@ -1,0 +1,2 @@
+https://gist.github.com/siemanko/b18ce332bde37e156034e5d3f60f8a23
+https://medium.com/tensorflow/upgrading-your-code-to-tensorflow-2-0-f72c3a4d83b5
