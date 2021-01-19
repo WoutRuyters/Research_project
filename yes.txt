@@ -1,2 +1,8 @@
 https://gist.github.com/siemanko/b18ce332bde37e156034e5d3f60f8a23
 https://medium.com/tensorflow/upgrading-your-code-to-tensorflow-2-0-f72c3a4d83b5
+https://stackoverflow.com/questions/58441514/why-is-tensorflow-2-much-slower-than-tensorflow-1
+https://www.kaggle.com/itoeiji/bayesian-neural-network-with-edward/data
+https://www.kaggle.com/uciml/mushroom-classification
+https://stackabuse.com/whats-new-in-tensorflow-2/
+https://www.youtube.com/watch?v=t48a_KOh0fQ&list=PL9qy4ta3WvNYsB7WWhowIBkPjKfLlpz8d&index=3
+https://www.youtube.com/watch?v=JmSNUeBG-PQ&feature=emb_imp_woyt
