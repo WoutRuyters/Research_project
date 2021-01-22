@@ -6,3 +6,5 @@ sklearn
 tqdm==4.56.0
 numpy==1.18.5
 ipykernel==5.4.2
+nbconvert==6.0.7
+ipynb-py-convert
