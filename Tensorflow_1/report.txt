@@ -4,31 +4,31 @@ Converted 1 files
 Detected 1 issues that require attention
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-File: TF1_code_in_py.py
+File: TF1_research_project.ipynb
 --------------------------------------------------------------------------------
-TF1_code_in_py.py:182:24: WARNING: *.save requires manual check. (This warning is only applicable if the code saves a tf.Keras model) Keras model.save now saves to the Tensorflow SavedModel format by default, instead of HDF5. To continue saving to HDF5, add the argument save_format='h5' to the save() function.
+TF1_research_project.ipynb:171:24: WARNING: *.save requires manual check. (This warning is only applicable if the code saves a tf.Keras model) Keras model.save now saves to the Tensorflow SavedModel format by default, instead of HDF5. To continue saving to HDF5, add the argument save_format='h5' to the save() function.
 ================================================================================
 Detailed log follows:
 
 ================================================================================
 --------------------------------------------------------------------------------
-Processing file 'TF1_code_in_py.py'
- outputting to 'TF1_upgraded.py'
+Processing file 'TF1_research_project.ipynb'
+ outputting to 'TF1_research_project_upgraded.ipynb'
 --------------------------------------------------------------------------------
 
-118:9: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
-121:10: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
-124:16: INFO: Renamed 'tf.truncated_normal' to 'tf.random.truncated_normal'
-133:16: INFO: Added keywords to args of function 'tf.reduce_mean'
-133:31: INFO: Changing labels arg of tf.nn.softmax_cross_entropy_with_logits to tf.stop_gradient(labels). Please check this transformation.
+108:9: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+111:10: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+113:16: INFO: Renamed 'tf.truncated_normal' to 'tf.random.truncated_normal'
+122:16: INFO: Added keywords to args of function 'tf.reduce_mean'
+122:31: INFO: Changing labels arg of tf.nn.softmax_cross_entropy_with_logits to tf.stop_gradient(labels). Please check this transformation.
 
-136:13: INFO: Renamed 'tf.train.AdamOptimizer' to 'tf.compat.v1.train.AdamOptimizer'
-139:30: INFO: Added keywords to args of function 'tf.argmax'
-139:52: INFO: Added keywords to args of function 'tf.argmax'
-142:11: INFO: Added keywords to args of function 'tf.reduce_mean'
-145:7: INFO: Renamed 'tf.Session' to 'tf.compat.v1.Session'
-148:8: INFO: Renamed 'tf.train.Saver' to 'tf.compat.v1.train.Saver'
-151:9: INFO: Renamed 'tf.global_variables_initializer' to 'tf.compat.v1.global_variables_initializer'
-182:24: WARNING: *.save requires manual check. (This warning is only applicable if the code saves a tf.Keras model) Keras model.save now saves to the Tensorflow SavedModel format by default, instead of HDF5. To continue saving to HDF5, add the argument save_format='h5' to the save() function.
+125:13: INFO: Renamed 'tf.train.AdamOptimizer' to 'tf.compat.v1.train.AdamOptimizer'
+128:30: INFO: Added keywords to args of function 'tf.argmax'
+128:52: INFO: Added keywords to args of function 'tf.argmax'
+131:11: INFO: Added keywords to args of function 'tf.reduce_mean'
+134:7: INFO: Renamed 'tf.Session' to 'tf.compat.v1.Session'
+137:8: INFO: Renamed 'tf.train.Saver' to 'tf.compat.v1.train.Saver'
+140:9: INFO: Renamed 'tf.global_variables_initializer' to 'tf.compat.v1.global_variables_initializer'
+171:24: WARNING: *.save requires manual check. (This warning is only applicable if the code saves a tf.Keras model) Keras model.save now saves to the Tensorflow SavedModel format by default, instead of HDF5. To continue saving to HDF5, add the argument save_format='h5' to the save() function.
 --------------------------------------------------------------------------------
 

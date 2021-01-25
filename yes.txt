@@ -6,3 +6,11 @@ https://www.kaggle.com/uciml/mushroom-classification
 https://stackabuse.com/whats-new-in-tensorflow-2/
 https://www.youtube.com/watch?v=t48a_KOh0fQ&list=PL9qy4ta3WvNYsB7WWhowIBkPjKfLlpz8d&index=3
 https://www.youtube.com/watch?v=JmSNUeBG-PQ&feature=emb_imp_woyt
+https://www.tensorflow.org/guide/upgrade
+https://en.wikipedia.org/wiki/Tensor
+https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
+https://stackoverflow.com/questions/53953099/what-is-the-purpose-of-the-tensorflow-gradient-tape
+https://stackoverflow.com/questions/54894799/why-should-i-use-tf-data
+https://www.tensorflow.org/guide/data
+https://www.tensorflow.org/guide/saved_model
+https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a
